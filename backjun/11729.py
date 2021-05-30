@@ -12,7 +12,7 @@ for i in range(n - 1):
     sum = sum * 2 + 1
 print(sum)
 # 함수실행
-hanoi(n, 1, 2, 3)
+hanoi(n, 1, 2, 3) # 3이라고 가정
 '''
 맨 처음 ( n 이 3이라고 가정 )
 3 1 2 3 호출 - 1단계 a
